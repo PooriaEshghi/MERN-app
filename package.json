@@ -1,0 +1,19 @@
+{
+  "name": "mern-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PooriaEshghi/MERN-app.git"
+  },
+  "author": "Pooria Eshghi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PooriaEshghi/MERN-app/issues"
+  },
+  "homepage": "https://github.com/PooriaEshghi/MERN-app#readme"
+}
